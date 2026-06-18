@@ -1,4 +1,4 @@
 ﻿[info]
-title=Slovenian translation (by Jadran Rudec, updated by wabi)
+title=Slovenian Translation of CudaText GUI and various plugins (by Jadran Rudec, updated by wabi)
 type=cudatext-data
-subdir=lang
+subdir=

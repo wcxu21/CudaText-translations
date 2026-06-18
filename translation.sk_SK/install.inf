@@ -1,4 +1,4 @@
 ﻿[info]
-title=Slovak translation (by Miro Matas, updated by wabi)
+title=Slovak Translation of CudaText GUI and various plugins (by Miro Matas, updated by wabi)
 type=cudatext-data
-subdir=lang
+subdir=
